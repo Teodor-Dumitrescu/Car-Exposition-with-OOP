@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557691929 source:c:\facultate 2\poo\tema 3 poo - copy\main.cpp
+	<iostream>
+	<typeinfo>
+	<string.h>
+	<string>
+
